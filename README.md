@@ -1,0 +1,5 @@
+- `current`: see current task
+- `ls`: list tasks in "my work".
+- `next`: start next task.
+- `start` #: start a task.
+- `stop`: stop current task.
